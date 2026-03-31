@@ -1,3 +1,9 @@
+# 🏆 Topcoder RFP Management: Enterprise Full-Stack Solution
+
+This repository is a comprehensive Full-Stack solution developed for a **Topcoder Challenge**. It integrates the **Platform UI** (detailed below) with a robust **Node.js/NestJS Backend** and automation scripts.
+
+---
+
 # Platform UI (aka Topcoder UI)
 
 The Platform UI is the official Topcoder web app to host all modern user interfaces to be used by all users.
